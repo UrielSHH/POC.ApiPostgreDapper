@@ -1,0 +1,6 @@
+@POC.ApiPostgreDapper_HostAddress = http://localhost:5261
+
+GET {{POC.ApiPostgreDapper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
